@@ -1,0 +1,4 @@
+raw_data filter=lfs diff=lfs merge=lfs -text
+template_data filter=lfs diff=lfs merge=lfs -text
+template_gallery filter=lfs diff=lfs merge=lfs -text
+test_data filter=lfs diff=lfs merge=lfs -text
